@@ -2,50 +2,62 @@
     "creditcards": [
         {
             "id":1,
-            "CardName": "Bank of America - Platinum Card",
+            "name": "Bank of America",
+            "description": "Bank of America offers customers with various options",
             "bankName": "Bank of America",
-            "description": "Bank of America offers customers with variety of options",
-            "maxCredit": 8000,
+            "maxCredit": 3000,
+            "interestRate": 10,
             "active": true,
-            "annualFee": 0,
-            "interestRate": 13.5,
-            "introOffer": 200,
-            "recommededCreditScore": "600-800",
-            "numberOfApplications": 40,
-            "createdDate": "28-08-2023",
-            "termsAndConditions": "The following conditions are applicable for this card"
+            "recommendedScore": "700-900",
+            "annualFee": 4,
+            "termsAndConditions": "Following are the terms and conditions",
+            "createdDate": "2023-31-08",
+            "updatedDate": "2023-31-08"
 
         },
         {
             "id":2,
-            "CardName": "Chase - Platinum Card",
-            "bankName": "Chase Bank",
-            "description": "Chase Bank offers customers with variety of options",
-            "maxCredit": 5000,
+            "name": "Bank of America",
+            "description": "Bank of America offers customers with various options",
+            "bankName": "Bank of America",
+            "maxCredit": 3000,
+            "interestRate": 10,
             "active": true,
-            "annualFee": 0,
-            "interestRate": 13.5,
-            "introOffer": 200,
-            "recommededCreditScore": "600-800",
-            "numberOfApplications": 40,
-            "createdDate": "28-08-2023",
-            "termsAndConditions": "The following conditions are applicable for this card"
+            "recommendedScore": "700-900",
+            "annualFee": 4,
+            "termsAndConditions": "Following are the terms and conditions",
+            "createdDate": "2023-31-08",
+            "updatedDate": "2023-31-08"
 
         },
         {
             "id":3,
-            "CardName": "Bank of America - Platinum Card",
+            "name": "Chase Bank",
+            "description": "Bank of America offers customers with various options",
             "bankName": "Bank of America",
-            "description": "Bank of America offers customers with variety of options",
-            "maxCredit": 8000,
+            "maxCredit": 3000,
+            "interestRate": 10,
             "active": true,
-            "annualFee": 0,
-            "interestRate": 13.5,
-            "introOffer": 200,
-            "recommededCreditScore": "600-800",
-            "numberOfApplications": 40,
-            "createdDate": "28-08-2023",
-            "termsAndConditions": "The following conditions are applicable for this card"
+            "recommendedScore": "700-900",
+            "annualFee": 4,
+            "termsAndConditions": "Following are the terms and conditions",
+            "createdDate": "2023-31-08",
+            "updatedDate": "2023-31-08"
+
+        },
+        {
+            "id":3,
+            "name": "Bank of America",
+            "description": "Bank of America offers customers with various options",
+            "bankName": "Bank of America",
+            "maxCredit": 3000,
+            "interestRate": 10,
+            "active": true,
+            "recommendedScore": "700-900",
+            "annualFee": 4,
+            "termsAndConditions": "Following are the terms and conditions",
+            "createdDate": "2023-31-08",
+            "updatedDate": "2023-31-08"
 
         }
     ]
