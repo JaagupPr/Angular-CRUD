@@ -59,7 +59,7 @@
 
             <div class="form-group">
                 <mat-checkbox name="active" [(ngModel)]="newCreditCard.active" required>Active</mat-checkbox>
-                <mat-error *ngId="creditCardForm.controls['interestRate']?.touched && creditCardForm.controls['interestRate']?.hasError('required')">Active must be selected</mat-error>
+                <mat-error *ngIf="creditCardForm.controls['interestRate']?.touched && creditCardForm.controls['interestRate']?.hasError('required')">Active must be selected</mat-error>
             </div>
 
             <div class="form-group">

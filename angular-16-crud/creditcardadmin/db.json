@@ -1,25 +1,11 @@
 {
   "creditcards": [
     {
-      "id": "1",
-      "name": "Bank of America",
-      "description": "Bank of America offers customers with various options",
-      "bankName": "Bank of America",
-      "maxCredit": 3000,
-      "interestRate": 10,
-      "active": true,
-      "recommendedScore": "700-900",
-      "annualFee": 4,
-      "termsAndConditions": "Following are the terms and conditions",
-      "createdDate": "2023-31-08",
-      "updatedDate": "2023-31-08"
-    },
-    {
       "id": "2",
       "name": "Chase Bank",
       "description": "Bank of America offers customers with various options",
       "bankName": "Bank of America",
-      "maxCredit": 3000,
+      "maxCredit": "5000",
       "interestRate": 10,
       "active": true,
       "recommendedScore": "700-900",
@@ -27,27 +13,13 @@
       "termsAndConditions": "Following are the terms and conditions",
       "createdDate": "2023-31-08",
       "updatedDate": "2023-31-08"
-    },
-    {
-      "id": "3",
-      "name": "Bank of America",
-      "description": "Bank of America offers various banking services for everyday needs.",
-      "bankName": "Bank of America",
-      "maxCredit": 3000,
-      "interestRate": 10,
-      "active": true,
-      "recommendedScore": "700-900",
-      "annualFee": 4,
-      "termsAndConditions": "Following are the terms and conditions.",
-      "createdDate": "2023-08-31",
-      "updatedDate": "2023-08-31"
     },
     {
       "id": "4",
       "name": "Chase Bank",
       "description": "Chase Bank offers premium banking services with higher credit limits and rewards.",
       "bankName": "Chase Bank",
-      "maxCredit": 5000,
+      "maxCredit": "2000",
       "interestRate": 12,
       "active": true,
       "recommendedScore": "700-850",
@@ -57,21 +29,7 @@
       "updatedDate": "2023-08-31"
     },
     {
-      "id": "10",
-      "name": "TD Bank",
-      "description": "TD Bank offers a convenience checking account with low balance requirements.",
-      "bankName": "TD Bank",
-      "maxCredit": 3500,
-      "interestRate": 8,
-      "active": true,
-      "recommendedScore": "680-850",
-      "annualFee": 4,
-      "termsAndConditions": "Following are the terms and conditions.",
-      "createdDate": "2023-08-31",
-      "updatedDate": "2023-08-31"
-    },
-    {
-      "id": "11",
+      "id": "5",
       "name": "BB&T",
       "description": "BB&T offers bright banking services with personalized customer support.",
       "bankName": "BB&T",
@@ -85,7 +43,7 @@
       "updatedDate": "2023-08-31"
     },
     {
-      "id": "12",
+      "id": "7",
       "name": "SunTrust",
       "description": "SunTrust offers essential checking services with a focus on convenience and value.",
       "bankName": "SunTrust",
@@ -99,7 +57,7 @@
       "updatedDate": "2023-08-31"
     },
     {
-      "id": "13",
+      "id": "8",
       "name": "HSBC",
       "description": "HSBC offers an advance account with global access and premium features.",
       "bankName": "HSBC",
@@ -113,7 +71,7 @@
       "updatedDate": "2023-08-31"
     },
     {
-      "id": "14",
+      "id": "9",
       "name": "Regions Bank",
       "description": "Regions Bank offers LifeGreen checking with rewards and low fees.",
       "bankName": "Regions Bank",
@@ -127,7 +85,7 @@
       "updatedDate": "2023-08-31"
     },
     {
-      "id": "15",
+      "id": "13",
       "name": "Fifth Third Bank",
       "description": "Fifth Third Bank offers essential checking with easy access and no monthly fees.",
       "bankName": "Fifth Third Bank",
@@ -141,7 +99,7 @@
       "updatedDate": "2023-08-31"
     },
     {
-      "id": "16",
+      "id": "14",
       "name": "KeyBank",
       "description": "KeyBank offers Key Express checking with simple, straightforward banking services.",
       "bankName": "KeyBank",
@@ -155,7 +113,7 @@
       "updatedDate": "2023-08-31"
     },
     {
-      "id": "17",
+      "id": "16",
       "name": "Ally Bank",
       "description": "Ally Bank offers interest checking with competitive rates and online convenience.",
       "bankName": "Ally Bank",
@@ -169,7 +127,7 @@
       "updatedDate": "2023-08-31"
     },
     {
-      "id": "18",
+      "id": "17",
       "name": "Citizens Bank",
       "description": "Citizens Bank offers One Deposit checking with simple requirements and no monthly fee.",
       "bankName": "Citizens Bank",
@@ -183,60 +141,144 @@
       "updatedDate": "2023-08-31"
     },
     {
-      "id": "fd36",
-      "name": "Platinum Card",
-      "description": "This is a test credit card",
-      "bankName": "ARC Bank",
-      "maxCredit": "10000",
-      "interestRate": "145",
-      "active": true,
-      "recommendedScore": "300-500",
-      "annualFee": "295",
-      "termsAndConditions": "Terms and conditions for the credit card",
-      "createdDate": "2024-06-25T21:00:00.000Z",
-      "updatedDate": "2024-06-27T21:00:00.000Z"
-    },
-    {
-      "id": "b216",
-      "name": "LHV card",
-      "description": "Random bank card",
-      "bankName": "Coop Pank",
-      "maxCredit": "500000",
-      "interestRate": "256",
-      "active": true,
-      "recommendedScore": "400-600",
-      "annualFee": "412",
-      "termsAndConditions": "Terms and conditions for the credit card",
-      "createdDate": "2024-06-26T21:00:00.000Z",
-      "updatedDate": "2024-06-27T21:00:00.000Z"
-    },
-    {
-      "id": "e7e8",
-      "name": "LHV card",
-      "description": "Randoms",
-      "bankName": "Coop Pank",
-      "maxCredit": 5000,
-      "interestRate": "214",
-      "active": true,
-      "recommendedScore": "300-500",
-      "annualFee": "232455",
-      "termsAndConditions": "Terms and conditions for the credit card",
-      "createdDate": "2024-06-28T21:00:00.000Z",
-      "updatedDate": "2024-06-29T21:00:00.000Z"
-    },
-    {
-      "id": "fb5c",
-      "name": "LHV card",
-      "description": "Randoms",
-      "bankName": "Coop Pank",
-      "maxCredit": 5000,
-      "interestRate": "24",
-      "active": true,
-      "recommendedScore": "200-400",
-      "annualFee": "5235",
-      "termsAndConditions": "Terms and conditions for the credit card",
-      "createdDate": "2024-06-28T21:00:00.000Z",
-      "updatedDate": "2024-06-29T21:00:00.000Z"
-    }
+        "id": "2",
+        "name": "Chase Bank",
+        "description": "Bank of America offers customers with various options",
+        "bankName": "Bank of America",
+        "maxCredit": "5000",
+        "interestRate": 10,
+        "active": true,
+        "recommendedScore": "700-900",
+        "annualFee": 4,
+        "termsAndConditions": "Following are the terms and conditions",
+        "createdDate": "2023-31-08",
+        "updatedDate": "2023-31-08"
+      },
+      {
+        "id": "3",
+        "name": "Chase Bank",
+        "description": "Chase Bank offers premium banking services with higher credit limits and rewards.",
+        "bankName": "Chase Bank",
+        "maxCredit": "2000",
+        "interestRate": 12,
+        "active": true,
+        "recommendedScore": "700-850",
+        "annualFee": 10,
+        "termsAndConditions": "Following are the terms and conditions.",
+        "createdDate": "2023-08-31",
+        "updatedDate": "2023-08-31"
+      },
+      {
+        "id": "6",
+        "name": "BB&T",
+        "description": "BB&T offers bright banking services with personalized customer support.",
+        "bankName": "BB&T",
+        "maxCredit": 3000,
+        "interestRate": 10,
+        "active": true,
+        "recommendedScore": "700-900",
+        "annualFee": 3,
+        "termsAndConditions": "Following are the terms and conditions.",
+        "createdDate": "2023-08-31",
+        "updatedDate": "2023-08-31"
+      },
+      {
+        "id": "2",
+        "name": "SunTrust",
+        "description": "SunTrust offers essential checking services with a focus on convenience and value.",
+        "bankName": "SunTrust",
+        "maxCredit": 3200,
+        "interestRate": 8,
+        "active": true,
+        "recommendedScore": "700-850",
+        "annualFee": 2,
+        "termsAndConditions": "Following are the terms and conditions.",
+        "createdDate": "2023-08-31",
+        "updatedDate": "2023-08-31"
+      },
+      {
+        "id": "5",
+        "name": "HSBC",
+        "description": "HSBC offers an advance account with global access and premium features.",
+        "bankName": "HSBC",
+        "maxCredit": 5000,
+        "interestRate": 12,
+        "active": true,
+        "recommendedScore": "700-900",
+        "annualFee": 5,
+        "termsAndConditions": "Following are the terms and conditions.",
+        "createdDate": "2023-08-31",
+        "updatedDate": "2023-08-31"
+      },
+      {
+        "id": "9",
+        "name": "Regions Bank",
+        "description": "Regions Bank offers LifeGreen checking with rewards and low fees.",
+        "bankName": "Regions Bank",
+        "maxCredit": 4000,
+        "interestRate": 9,
+        "active": true,
+        "recommendedScore": "680-850",
+        "annualFee": 3,
+        "termsAndConditions": "Following are the terms and conditions.",
+        "createdDate": "2023-08-31",
+        "updatedDate": "2023-08-31"
+      },
+      {
+        "id": "4",
+        "name": "Fifth Third Bank",
+        "description": "Fifth Third Bank offers essential checking with easy access and no monthly fees.",
+        "bankName": "Fifth Third Bank",
+        "maxCredit": 3500,
+        "interestRate": 7,
+        "active": true,
+        "recommendedScore": "650-850",
+        "annualFee": 0,
+        "termsAndConditions": "Following are the terms and conditions.",
+        "createdDate": "2023-08-31",
+        "updatedDate": "2023-08-31"
+      },
+      {
+        "id": "10",
+        "name": "KeyBank",
+        "description": "KeyBank offers Key Express checking with simple, straightforward banking services.",
+        "bankName": "KeyBank",
+        "maxCredit": 3000,
+        "interestRate": 10,
+        "active": true,
+        "recommendedScore": "700-900",
+        "annualFee": 1,
+        "termsAndConditions": "Following are the terms and conditions.",
+        "createdDate": "2023-08-31",
+        "updatedDate": "2023-08-31"
+      },
+      {
+        "id": "5",
+        "name": "Ally Bank",
+        "description": "Ally Bank offers interest checking with competitive rates and online convenience.",
+        "bankName": "Ally Bank",
+        "maxCredit": 4000,
+        "interestRate": 9,
+        "active": true,
+        "recommendedScore": "680-900",
+        "annualFee": 0,
+        "termsAndConditions": "Following are the terms and conditions.",
+        "createdDate": "2023-08-31",
+        "updatedDate": "2023-08-31"
+      },
+      {
+        "id": "2",
+        "name": "Citizens Bank",
+        "description": "Citizens Bank offers One Deposit checking with simple requirements and no monthly fee.",
+        "bankName": "Citizens Bank",
+        "maxCredit": 3500,
+        "interestRate": 8,
+        "active": true,
+        "recommendedScore": "650-850",
+        "annualFee": 0,
+        "termsAndConditions": "Following are the terms and conditions.",
+        "createdDate": "2023-08-31",
+        "updatedDate": "2023-08-31"
+      }
   ]
 }
